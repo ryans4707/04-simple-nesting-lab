@@ -89,9 +89,6 @@ def adding_matz
   # {:known_for => "Ruby", :languages => ["LISP, C"]}
   # CODE HERE
   
-  
-  # returns the programmer_hash
-  programmer_hash
 end
 
 def changing_alan
@@ -115,9 +112,6 @@ def changing_alan
   # change what Alan Kay is :known_for to "GUI"
   # CODE HERE
   
-  
-  # returns the programmer_hash
-  programmer_hash
 end
 
 def adding_to_dennis
@@ -141,7 +135,4 @@ def adding_to_dennis
   # adds 'Assembly' to Dennis Ritchie's languages
   # CODE HERE
   
-     
-  # returns the programmer_hash
-  programmer_hash
 end

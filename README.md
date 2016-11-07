@@ -32,5 +32,3 @@ Changing a hash by simply re-defining it is not the goal of this lab:
 my_hash = {first: "i'm first!", second: "i'm second!"}
 my_hash = {first: "i'm first!", second: "i'm second!", third: "i'm third!"}
 ```
-
-**NOTE:** _In some methods, the return value is_ `programmer_hash`_.  Do not edit that._
